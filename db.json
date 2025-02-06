@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "sreev7074@gmail.com",
+      "username": "Sreevidhya",
+      "password": "123"
+    },
+    {
+      "id": "5a2d",
+      "email": "ajith@gmail.com",
+      "username": "ajith",
+      "password": "123"
+    }
+  ],
+  "videos": [
+    {
+      "id": "2945",
+      "title": "Vaazha",
+      "imageUrl": "https://i.ytimg.com/vi/1CyHMlo41vU/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/EdsxhVLDLb4?si=4qejQA4-65TntNML"
+    },
+    {
+      "id": "17e7",
+      "title": "Marco Trailer",
+      "imageUrl": "https://i.ytimg.com/vi/JeBIER4Llkg/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TLEIhVc17jM?si=4qejQA4-65TntNML"
+    },
+    {
+      "id": "a280",
+      "title": "Empuraan",
+      "imageUrl": "https://i.ytimg.com/vi/12Gp_xOS7YM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDa9i43ZnKnu9LMxgxLMDdBF7rCrw",
+      "videoUrl": "https://www.youtube.com/embed/a9uM5tGTIQM?si=4qejQA4-65TntNML"
+    },
+    {
+      "id": "b987",
+      "title": "Identity",
+      "imageUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/01/03/2db61ec94b32648d7119c7967512576d1735902611588396_original.jpg?impolicy=abp_cdn&imwidth=320",
+      "videoUrl": "https://www.youtube.com/embed/6LSqReemlTk?si=4qejQA4-65TntNML"
+    },
+    {
+      "id": "3f90",
+      "title": "Bougainvillea ",
+      "imageUrl": "https://i.ytimg.com/vi/bIj_g-okooo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/bIj_g-okooo?si=4qejQA4-65TntNML"
+    },
+    {
+      "id": "dcee",
+      "title": "Pani",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-114342374,width-1280,resizemode-4/114342374.jpg",
+      "videoUrl": "https://www.youtube.com/embed/mjcg6nc0ZsU?si=4qejQA4-65TntNML"
+    }
+  ],
+  "category": [
+    {
+      "id": "1417",
+      "name": "Movies",
+      "videos": [
+        {
+          "id": "3f90",
+          "title": "Bougainvillea ",
+          "imageUrl": "https://i.ytimg.com/vi/bIj_g-okooo/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/bIj_g-okooo?si=4qejQA4-65TntNML"
+        }
+      ]
+    },
+    {
+      "id": "cf65",
+      "name": "Trailers",
+      "videos": [
+        {
+          "id": "dcee",
+          "title": "Pani",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-114342374,width-1280,resizemode-4/114342374.jpg",
+          "videoUrl": "https://www.youtube.com/embed/mjcg6nc0ZsU?si=4qejQA4-65TntNML"
+        }
+      ]
+    },
+    {
+      "id": "0193",
+      "name": "Teasers",
+      "videos": [
+        {
+          "id": "b987",
+          "title": "Identity",
+          "imageUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/01/03/2db61ec94b32648d7119c7967512576d1735902611588396_original.jpg?impolicy=abp_cdn&imwidth=320",
+          "videoUrl": "https://www.youtube.com/embed/6LSqReemlTk?si=4qejQA4-65TntNML"
+        }
+      ]
+    },
+    {
+      "id": "0828",
+      "name": "Music",
+      "videos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "20b7",
+      "videoId": "dcee",
+      "title": "Pani",
+      "image": "https://static.toiimg.com/thumb/msid-114342374,width-1280,resizemode-4/114342374.jpg",
+      "videoUrl": "https://www.youtube.com/embed/mjcg6nc0ZsU?si=4qejQA4-65TntNML",
+      "datetime": "2025-02-05T13:58:06.749Z"
+    },
+    {
+      "id": "8d18",
+      "videoId": "a280",
+      "title": "Empuraan",
+      "image": "https://i.ytimg.com/vi/12Gp_xOS7YM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDa9i43ZnKnu9LMxgxLMDdBF7rCrw",
+      "videoUrl": "https://www.youtube.com/embed/a9uM5tGTIQM?si=4qejQA4-65TntNML",
+      "datetime": "2025-02-05T13:58:25.126Z"
+    },
+    {
+      "id": "2a82",
+      "videoId": "17e7",
+      "title": "Marco Trailer",
+      "image": "https://i.ytimg.com/vi/JeBIER4Llkg/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/TLEIhVc17jM?si=4qejQA4-65TntNML",
+      "datetime": "2025-02-05T21:51:17.470Z"
+    },
+    {
+      "id": "8043",
+      "videoId": "2945",
+      "title": "Vaazha",
+      "image": "https://i.ytimg.com/vi/1CyHMlo41vU/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/EdsxhVLDLb4?si=4qejQA4-65TntNML",
+      "datetime": "2025-02-06T10:55:56.568Z"
+    }
+  ]
+}
